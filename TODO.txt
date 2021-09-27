@@ -1,0 +1,16 @@
+CAN DO NOW
+- finish home/landing page
+- create item type page (totes, tumblrs, doormats, etc.) <--- NEED TO PULL FROM DB
+- create specific item page (use big card??)
+- research online purchasing (square ?)
+- Create about page (simple text)
+- create footer with connection to social media pages, add to main app
+- color scheme!!!!
+- set up mongo db 
+- connect pages to pull info from db (Check nav.js for example)
+
+
+LATER 
+- newsletter?
+- fonts?? 
+
